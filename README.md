@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Osama Rehman
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning React.js, Node.js, Mongodb and Express.
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently learning React.js, C# ASP.NET and Javascript.
 - 💞️ I’m looking to collaborate on any projects related to the above mentioned technologies
 - 📫 How to reach me: osamarehman1@outlook.com
 
