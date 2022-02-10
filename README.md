@@ -10,7 +10,6 @@
     ✨ Express
     ✨ Firebase
     ✨ C++/C
-    ✨ .NET
     ✨ SQL and NoSQL
 
 📫 How to reach me: **osamarehman1@outlook.com**
