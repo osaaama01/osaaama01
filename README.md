@@ -7,7 +7,7 @@ environment. I love working on new projects and meeting new people. I’m lookin
 </div>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/osaaama01/osaaama01/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
