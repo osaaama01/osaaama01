@@ -1,9 +1,7 @@
 **Tech Stack:**
 
-    ✨ Languages:            JavaScript, TypeScript, SQL, NoSQL with working knowledge of C++ and Java
-    ✨ Frameworks:           Node.js, NestJS, ExpressJS, ReactJS, RemixJS
-    ✨ Tools/Technologies:   CI/CD, Docker/Docker Compose, Prisma, Git/GitLab, Redis, Elastic Search, JIRA,
-                             OpenSearch, Jest, Unit Testing, Integration Testing, Agile, REST, AWS, S3
-                             CloudWatch, Kibana, Swagger
+    Languages:           JavaScript, TypeScript, SQL with working knowledge of Go and C++
+    Frameworks:          Node.js, NestJS, ExpressJS, ReactJS, Remix
+    Tools/Technologies:  CI/CD, Docker/Docker Compose, Prisma, Git/GitLab, Redis, AWS(EC2, ECS, CloudFormation, Cloudwatch, SNS and SQS), Terraform, Consul, Testing(Jest, Vitest,                                 Playwright), Unit/Integration Testing
 
-📫 How to reach me: **osamarehman1@outlook.com**
+📫: **osamarehman1@outlook.com**
